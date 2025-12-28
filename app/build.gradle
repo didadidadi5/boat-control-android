@@ -7,11 +7,11 @@ apply plugin: 'kotlin-android'
 
 android {
     namespace 'com.example.boatcontrol'
-    compileSdk 34
+    compileSdk 21
     defaultConfig {
         applicationId "com.example.boatcontrol"
         minSdk 21
-        targetSdk 34
+        targetSdk 21
         versionCode 1
         versionName "0.1"
     }
